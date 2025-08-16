@@ -1,0 +1,55 @@
+Sistema,Átomo,Tipo,População
+Trifenileno,1,C,1.000000000000001
+Trifenileno,2,C,0.9999999999999981
+Trifenileno,3,C,1.0000000000000007
+Trifenileno,4,C,1.0000000000000022
+Trifenileno,5,C,1.0000000000000004
+Trifenileno,6,C,0.9999999999999986
+Trifenileno,7,C,1.0
+Trifenileno,8,C,1.0
+Trifenileno,9,C,0.9999999999999989
+Trifenileno,10,C,1.0000000000000022
+Trifenileno,11,C,0.9999999999999992
+Trifenileno,12,C,0.9999999999999999
+Trifenileno,13,C,1.0000000000000007
+Trifenileno,14,C,0.9999999999999988
+Trifenileno,15,C,1.000000000000002
+Trifenileno,16,C,0.9999999999999961
+Trifenileno,17,C,1.0000000000000022
+Trifenileno,18,C,0.9999999999999988
+Triazatrifenileno (3N),1,C,1.0282250311618353
+Triazatrifenileno (3N),2,N,0.8190174931056761
+Triazatrifenileno (3N),3,C,1.0282250311618262
+Triazatrifenileno (3N),4,C,1.0280317665444463
+Triazatrifenileno (3N),5,C,1.0684689114817816
+Triazatrifenileno (3N),6,C,1.028031766544439
+Triazatrifenileno (3N),7,C,0.979403963964211
+Triazatrifenileno (3N),8,N,0.8332410028551637
+Triazatrifenileno (3N),9,C,0.9794039639642231
+Triazatrifenileno (3N),10,C,1.0605502886315896
+Triazatrifenileno (3N),11,C,1.0868504919532043
+Triazatrifenileno (3N),12,C,1.0605502886316092
+Triazatrifenileno (3N),13,C,1.0282250311618364
+Triazatrifenileno (3N),14,N,0.8190174931056748
+Triazatrifenileno (3N),15,C,1.028225031161825
+Triazatrifenileno (3N),16,C,1.0280317665444387
+Triazatrifenileno (3N),17,C,1.068468911481784
+Triazatrifenileno (3N),18,C,1.028031766544441
+Hexaazatrifenileno (6N),1,C,1.0552081805706472
+Hexaazatrifenileno (6N),2,N,0.8895836388587045
+Hexaazatrifenileno (6N),3,C,1.055208180570648
+Hexaazatrifenileno (6N),4,C,1.05520818057065
+Hexaazatrifenileno (6N),5,N,0.8895836388587048
+Hexaazatrifenileno (6N),6,C,1.0552081805706466
+Hexaazatrifenileno (6N),7,C,1.036805453713765
+Hexaazatrifenileno (6N),8,N,0.9263890925724698
+Hexaazatrifenileno (6N),9,C,1.036805453713763
+Hexaazatrifenileno (6N),10,C,1.0368054537137688
+Hexaazatrifenileno (6N),11,N,0.9263890925724709
+Hexaazatrifenileno (6N),12,C,1.0368054537137625
+Hexaazatrifenileno (6N),13,C,1.0552081805706488
+Hexaazatrifenileno (6N),14,N,0.8895836388587044
+Hexaazatrifenileno (6N),15,C,1.0552081805706492
+Hexaazatrifenileno (6N),16,C,1.0552081805706406
+Hexaazatrifenileno (6N),17,N,0.8895836388587056
+Hexaazatrifenileno (6N),18,C,1.0552081805706504
